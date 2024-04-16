@@ -99,6 +99,11 @@
     color: #fff;
   }
 
+  button:hover{
+    cursor: pointer;
+  }
+
+
 
 
   nav>.navChildOne>ol>.two {
